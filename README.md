@@ -1,3 +1,4 @@
+![Customer Intelligence Dashboard Preview](PAGE 1.png)
 
 # Customer Intelligence & Segmentation Analytics Dashboard
 
